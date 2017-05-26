@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * MODIFICATION YOANN: Destination = /wiki.fablabsnation.ca/public_html/core/extensions/Maps/includes/geocoders
  * Class for geocoding requests with the GeoNames webservice.
  * 
  * @since 1.0
